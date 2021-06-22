@@ -8,5 +8,7 @@
 # Screenshots
 
 ![screenshots](https://github.com/Mithesh14/Virtual-piano/blob/main/images/image1.jpg)
+
 ![screenshots](https://github.com/Mithesh14/Virtual-piano/blob/main/images/image2.jpg)
+
 ![screenshots](https://github.com/Mithesh14/Virtual-piano/blob/main/images/image3.jpg)

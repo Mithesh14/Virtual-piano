@@ -3,7 +3,7 @@
 
 # Project deployed at
 
-<a href="https://mithesh14.github.io/Github-profile/">Virtual Piano</a>
+<a href="https://mithesh14.github.io/Virtual-piano/">Virtual Piano</a>
 
 # Screenshots
 

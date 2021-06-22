@@ -1,5 +1,5 @@
 # Virtual Piano
- A simple virtual piano is developed using html, css and javascript
+✏️ A simple virtual piano is developed using html, css and javascript ❗
 
 # Project deployed at
 
